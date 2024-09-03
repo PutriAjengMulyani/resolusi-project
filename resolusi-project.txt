@@ -1,0 +1,4 @@
+1. membuat sebuah to do list
+2. membuat kalkulator sederhana
+3. membut game tic tac toe
+4. membuat web portofolio
