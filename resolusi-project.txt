@@ -1,5 +1,4 @@
 1. membuat sebuah to do list
 2. membuat kalkulator sederhana
 3. membut game tic tac toe
-4. membuat web portofolio
 5. membuat website bac buku gratis dan legal (ada itur ofline tapi tidak ada fitur download)
