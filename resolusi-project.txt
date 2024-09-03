@@ -3,3 +3,4 @@
 3. membut game tic tac toe
 5. membuat website bac buku gratis dan legal (ada itur ofline tapi tidak ada fitur download)
 6. tambah kolom artikel
+7. membuat wether app
