@@ -1,0 +1,7 @@
+fitur:
+1. perkenalan diri
+2. Teknologi
+3. Dokumentasi
+4. teknologi yang sudah dipelajari
+5. pproject
+6. on going project
